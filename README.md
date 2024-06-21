@@ -1,3 +1,3 @@
-# HousingPricesBrazil
+# Housing Prices
 
-Examining the Real Estate Market in Brazil
+Examining the Real Estate Market
